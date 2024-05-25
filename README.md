@@ -1,1 +1,1 @@
-# Diabetes_prediction_final_year_project
+# Diabetes prediction using PIMA indian dataset.
